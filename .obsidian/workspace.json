@@ -43,9 +43,11 @@
             "id": "a09b61357b66c3c9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Beautify/Pasted image 20231215192647.png"
+                "file": "Beautify/Beautify.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beautify/Pasted image 20231215192647.png",
+                "file": "Beautify/Beautify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beautify/Pasted image 20231215192647.png",
+                "file": "Beautify/Beautify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beautify/Pasted image 20231215192647.png"
+                "file": "Beautify/Beautify.md"
               }
             }
           }
@@ -165,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 215.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -178,10 +180,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1696b8ffb3886739",
+  "active": "a09b61357b66c3c9",
   "lastOpenFiles": [
-    "Beautify/Beautify.md",
     "Beautify/Pasted image 20231215192647.png",
+    "Beautify/Beautify.md",
     "Nihongo/Nihongo.md",
     "Nihongo",
     "新建 文本文档.txt",
