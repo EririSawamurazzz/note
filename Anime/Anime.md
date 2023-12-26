@@ -7,7 +7,10 @@
     嘉哥御用sakura：https://yhdm6.com
     导航网（二次元のencyclopedia）：https://acgdh.cc
     高清无码资源站1：https://share.dmhy.org（VPN）
-
+	nyaa.si
+	mikanani.me
+	tokyotoshu.info
+	bangumi.moe
 ps：最新潮流类（22年往后的新番）前面贴*喵
 
 ### 二次元最高城（含金量）
