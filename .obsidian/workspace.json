@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c41f0d1603cec404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anime/Anime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a09b61357b66c3c9",
+  "active": "c41f0d1603cec404",
   "lastOpenFiles": [
     "Nihongo/Nihongo.md",
     "Anime/Anime.md",
