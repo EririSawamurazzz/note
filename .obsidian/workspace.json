@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anime/Anime.md",
+                "file": "Nihongo/Nihongo.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anime/Anime.md",
+                "file": "Nihongo/Nihongo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anime/Anime.md",
+                "file": "Nihongo/Nihongo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anime/Anime.md"
+                "file": "Nihongo/Nihongo.md"
               }
             }
           }
@@ -170,10 +170,10 @@
   },
   "active": "c41f0d1603cec404",
   "lastOpenFiles": [
-    "Nihongo/Nihongo.md",
-    "Anime/Anime.md",
-    "Beautify/Beautify.md",
     "Beautify/Pasted image 20231215192647.png",
+    "Beautify/Beautify.md",
+    "Anime/Anime.md",
+    "Nihongo/Nihongo.md",
     "Nihongo",
     "新建 文本文档.txt",
     "Anime",
