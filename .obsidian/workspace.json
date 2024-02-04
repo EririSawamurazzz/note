@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beautify/Beautify.md",
+                "file": "Game/Docs.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beautify/Beautify.md",
+                "file": "Game/Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beautify/Beautify.md",
+                "file": "Game/Docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beautify/Beautify.md"
+                "file": "Game/Docs.md"
               }
             }
           }
@@ -170,9 +170,11 @@
   },
   "active": "c41f0d1603cec404",
   "lastOpenFiles": [
+    "Beautify/Beautify.md",
+    "Game/Docs.md",
+    "Game",
     "Beautify/Pasted image 20231215192647.png",
     "Nihongo/Nihongo.md",
-    "Beautify/Beautify.md",
     "Anime/Anime.md",
     "Nihongo",
     "新建 文本文档.txt",
